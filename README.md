@@ -1,4 +1,4 @@
-SIB_(#_heading)
+SIB_GIT(#_heading)
 == 
 source project catatan untuk SIB
 -- 
@@ -6,3 +6,4 @@ source project catatan untuk SIB
 - ini list 1
 - ini list 2
 - ini list 3
+- ini link basic syntax https://www.markdownguide.org/basic-syntax/
